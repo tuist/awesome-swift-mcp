@@ -1,4 +1,4 @@
-# awesome-tuist-mcp
+# awesome-swift-mcp
 
 We have established this repository to serve as a comprehensive directory for resources related to the MCP, including items such as prompts, servers, and innovative ideas, all specifically tailored to the context of Swift application development. Our goal is to provide a centralized location where developers can access and contribute to a growing collection of materials that enhance the use of MCP in building better Swift apps faster.
 
@@ -10,8 +10,8 @@ We have established this repository to serve as a comprehensive directory for re
 - [iMCP](https://github.com/loopwork-ai/iMCP): A macOS app that provides an MCP server to your Messages, Contacts, and more
 
 ## SDKs
+- [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk): The official Swift SDK for Model Context Protocol servers and clients.
 - [gsabran/mcp-swift-sdk](https://github.com/gsabran/mcp-swift-sdk): Swift implementation of the Model Context Protocol (MCP), providing both client and server capabilities for integrating with LLM surfaces.
-
 
 ## Prompts 👩‍🔬
 
