@@ -15,6 +15,9 @@ We have established this repository to serve as a comprehensive directory for re
 - [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk): The official Swift SDK for Model Context Protocol servers and clients.
 - [gsabran/mcp-swift-sdk](https://github.com/gsabran/mcp-swift-sdk): Swift implementation of the Model Context Protocol (MCP), providing both client and server capabilities for integrating with LLM surfaces.
 
+## Articles
+- [Creating MCP Servers in Swift](https://www.artemnovichkov.com/blog/creating-mcp-servers-in-swift) by [Artem Novichkov](https://x.com/iosartem)
+
 ## Prompts 👩‍🔬
 
 Include links here to Gists that demonstrate the prompts you’ve utilized with Swift-related resources through the MCP server. These examples will help illustrate how to effectively leverage Swift’s ecosystem, showcasing practical applications and inspiring others to explore the capabilities of the MCP server in their own Swift projects.
