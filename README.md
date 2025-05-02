@@ -1,4 +1,7 @@
 # awesome-swift-mcp
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 We have established this repository to serve as a comprehensive directory for resources related to the MCP, including items such as prompts, servers, and innovative ideas, all specifically tailored to the context of Swift application development. Our goal is to provide a centralized location where developers can access and contribute to a growing collection of materials that enhance the use of MCP in building better Swift apps faster.
 
@@ -21,3 +24,25 @@ We have established this repository to serve as a comprehensive directory for re
 ## Prompts 👩‍🔬
 
 Include links here to Gists that demonstrate the prompts you’ve utilized with Swift-related resources through the MCP server. These examples will help illustrate how to effectively leverage Swift’s ecosystem, showcasing practical applications and inspiring others to explore the capabilities of the MCP server in their own Swift projects.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.artemnovichkov.com"><img src="https://avatars.githubusercontent.com/u/5051597?v=4?s=100" width="100px;" alt="Artem Novichkov"/><br /><sub><b>Artem Novichkov</b></sub></a><br /><a href="#content-artemnovichkov" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
