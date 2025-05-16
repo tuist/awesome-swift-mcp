@@ -20,6 +20,7 @@ We have established this repository to serve as a comprehensive directory for re
 
 ## Articles
 - [Creating MCP Servers in Swift](https://www.artemnovichkov.com/blog/creating-mcp-servers-in-swift) by [Artem Novichkov](https://x.com/iosartem)
+- [Using Model Context Protocol in iOS apps](https://www.artemnovichkov.com/blog/using-model-context-protocol-in-ios-apps) by [Artem Novichkov](https://x.com/iosartem)
 
 ## Prompts 👩‍🔬
 
