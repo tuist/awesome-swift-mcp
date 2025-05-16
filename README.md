@@ -11,8 +11,8 @@ We have established this repository to serve as a comprehensive directory for re
 - [PolarVista/Xcode-mcp-server](https://github.com/PolarVista/Xcode-mcp-server): A Model Context Protocol server for building Xcode projects directly from LLM applications
 - [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild): MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs. 
 - [iMCP](https://github.com/loopwork-ai/iMCP): A macOS app that provides an MCP server to your Messages, Contacts, and more
-- [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP): A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients. 
-
+- [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP): A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
+-  [artemnovichkov/shortcuts-mcp-server](https://github.com/artemnovichkov/shortcuts-mcp-server): A server that provides access to Apple Shortcuts functionality. This server allows AI assistants to list, view, and run your shortcuts through the MCP interface.
   
 ## SDKs
 - [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk): The official Swift SDK for Model Context Protocol servers and clients.
