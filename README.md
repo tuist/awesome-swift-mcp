@@ -7,6 +7,7 @@ We have established this repository to serve as a comprehensive directory for re
 
 ## Servers
 
+- [XC-MCP: Intelligent Xcode MCP Server](https://github.com/conorluddy/xc-mcp): Production-grade MCP server for Xcode workflows, optimized for AI agents with accessibility-first iOS automation
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server): MCP Server implementation for Xcode integration
 - [PolarVista/Xcode-mcp-server](https://github.com/PolarVista/Xcode-mcp-server): A Model Context Protocol server for building Xcode projects directly from LLM applications
 - [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild): MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs. 
