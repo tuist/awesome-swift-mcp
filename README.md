@@ -13,6 +13,7 @@ We have established this repository to serve as a comprehensive directory for re
 - [iMCP](https://github.com/loopwork-ai/iMCP): A macOS app that provides an MCP server to your Messages, Contacts, and more
 - [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP): A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
 -  [artemnovichkov/shortcuts-mcp-server](https://github.com/artemnovichkov/shortcuts-mcp-server): A server that provides access to Apple Shortcuts functionality. This server allows AI assistants to list, view, and run your shortcuts through the MCP interface.
+- [Scrapewise](https://github.com/BEBOTECH-OU/scrapewise-mcp): Remote MCP server that scrapes, cleans and matches product and price data from any website.
   
 ## SDKs
 - [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk): The official Swift SDK for Model Context Protocol servers and clients.
